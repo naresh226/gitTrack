@@ -1,2 +1,1 @@
-
-This is modified test file.Modifying in feature2 to create conflict.
+Resolving the conflict.
