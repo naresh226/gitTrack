@@ -1,1 +1,2 @@
-This is modified test file.Modifying in master to create conflict.
+
+This is modified test file.Modifying in master to create conflict.Kept content of master branch.
